@@ -1,0 +1,11 @@
+BuildingID,LevelCode,FrameOrGrid,CameraNumber,Location,Status,InstallDate,Notes
+ADM,1,A,1,Main Lobby,Active,1/15/2024,
+ADM,2,B,2,East Hallway,Active,2/20/2024,
+LIB,1,C,3,Entrance,Active,3/5/2024,
+LIB,2,A,4,Study Area,Maintenance,6/10/2024,
+SCI,1,D,5,Lab Wing,Active,4/18/2024,
+SCI,3,B,6,Rooftop Access,Inactive,11/2/2023,
+TEC,1,A,7,Server Room Door,Active,5/25/2024,
+TEC,2,C,8,Corridor North,Active,7/1/2024,
+ART,1,B,9,Gallery,Active,8/12/2024,
+ART,B,D,10,Storage,Inactive,9/30/2023,
